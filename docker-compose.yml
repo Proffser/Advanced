@@ -3,9 +3,9 @@ services:
    worker:
     build: .
     environment:
-      BOT_TOKEN: $BOT_TOKEN
-      API_ID: $API_ID
-      API_HASH: $API_HASH
+      BOT_TOKEN: $7892907047:AAFM1iQ5CRz9mTedR4fvm3yummbyCkybGqU
+      API_ID: $ 7149223
+      API_HASH: $64c97b258c4e62e7069cdb02107f425a
       CHANNELS: $CHANNELS
       ADMINS: $ADMINS
       LOG_CHANNEL: $LOG_CHANNEL
