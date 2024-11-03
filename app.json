@@ -19,15 +19,15 @@
     "repository": "https://github.com/Joelkb/DQ-the-file-donor",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "7892907047:AAFM1iQ5CRz9mTedR4fvm3yummbyCkybGqU",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": 7149223"",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "64c97b258c4e62e7069cdb02107f425a",
             "required": true
         },
         "CHANNELS": {
