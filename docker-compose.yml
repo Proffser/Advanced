@@ -7,8 +7,8 @@ services:
       API_ID: $ 7149223
       API_HASH: $64c97b258c4e62e7069cdb02107f425a
       CHANNELS: $CHANNELS
-      ADMINS: $ADMINS
+      ADMINS: $6856133548
       LOG_CHANNEL: $LOG_CHANNEL
-      DATABASE_NAME: $DATABASE_NAME
-      DATABASE_URI: $DATABASE_URI
+      DATABASE_NAME: $cluster0
+      DATABASE_URI: $mongodb+srv://losingtheartof43:Anoop@321@cluster0.ow2ke.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       HEROKU_API_KEY: $HEROKU_API_KEY
